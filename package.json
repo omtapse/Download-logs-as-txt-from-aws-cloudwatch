@@ -1,0 +1,11 @@
+{
+  "name": "download-logs-as-txt-from-aws-cloudwatch",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node run index.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
